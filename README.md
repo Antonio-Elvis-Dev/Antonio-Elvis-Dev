@@ -1,4 +1,4 @@
-## Olá eu sou o Elvis, estudante de programação!
+## Olá me chamo Elvis, sou T.I e graduando em S.I pelo IFAL!
 <div align="center">
   <a href="https://github.com/antonio-elvis-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonio-elvis-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
