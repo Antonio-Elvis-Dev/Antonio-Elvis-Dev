@@ -19,5 +19,5 @@
   <a href="https://www.linkedin.com/in/ant%C3%B4nio-elvis-pinheiro-n-da-silva-b119071b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
- 
+  ![Snake animation](https://github.com/Antonio-Elvis-Dev/Antonio-Elvis-Dev/blob/output/github-contribution-grid-snake.svg)
 </div>
