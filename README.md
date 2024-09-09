@@ -1,17 +1,19 @@
 ## Olá, me chamo Elvis, sou T.I e graduando em S.I pelo IFAL!
 
-<div align="center">
-  <div>
-    <a href="https://github.com/antonio-elvis-dev">
-      <img height="120rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-elvis-dev&layout=compact&langs_count=7&theme=dark"/>
-    </a>
-  </div>
-  
-  <div> 
-    <a href="https://app.rocketseat.com.br/me/antonio-elvis-pinheiro-nascimento-da-silva-04000">
-      <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=antonio-elvis-pinheiro-nascimento-da-silva-04000&type=card" width="200" alt="Rocket ID"/>
-    </a>
-  </div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/antonio-elvis-dev">
+        <img height="120rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-elvis-dev&layout=compact&langs_count=7&theme=dark"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://app.rocketseat.com.br/me/antonio-elvis-pinheiro-nascimento-da-silva-04000">
+        <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=antonio-elvis-pinheiro-nascimento-da-silva-04000&type=card" width="200" alt="Rocket ID"/>
+      </a>
+    </td>
+  </tr>
+</table>
   
   <div style="display: inline_block; margin-top: 20px;"><br>
     <img align="center" alt="Elvis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
