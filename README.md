@@ -37,7 +37,7 @@
   <a href="mailto:githubantonioelvis@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/ant%C3%B4nio-elvis-pinheiro-n-da-silva-b119071b2" target="_blank">
+  <a href="https://www.linkedin.com/in/antonioelvis" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
