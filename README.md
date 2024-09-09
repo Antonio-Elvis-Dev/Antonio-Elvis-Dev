@@ -8,6 +8,8 @@
   <div > 
     <a href="https://app.rocketseat.com.br/me/antonio-elvis-pinheiro-nascimento-da-silva-04000"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=antonio-elvis-pinheiro-nascimento-da-silva-04000&type=card" width="200" alt="Antônio Elvis Pinheiro Nascimento da Silva's Rocket ID"/></a>
   </div>
+</div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Elvis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Elvis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +18,6 @@
   <img align="center" alt="Elvis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Elvis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div> 
-</div>
   ##
   
 <div> 
